@@ -1,0 +1,6 @@
+{
+    "require": {
+        "robthree/twofactorauth": "dev-master",
+        "bacon/bacon-qr-code": "3.0"
+    }
+}
